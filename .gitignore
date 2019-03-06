@@ -3,3 +3,6 @@
 *.txt
 *.log
 
+
+# Python compiled files
+*.py[co]
